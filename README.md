@@ -57,4 +57,4 @@ This project was developed by [Dhruv Gupta](https://github.com/guptadhruv1901).
 
 # License
 
-This project is licensed under the [MIT] (LICENSE).
+This project is licensed under the [MIT](LICENSE).
